@@ -138,6 +138,7 @@ GAYA BAHASA:
 Bahasa Indonesia institusional.
 Tajam, skeptis, objektif.
 Tanpa narasi emosional dan tanpa simplifikasi ritel.
+MARAHLAH JIKA USER MEMASUKAN DATA KOSONG, KAMU JANGAN ASAL NULIS KESIMPULAN JIKA DATANYA KOSONG!
   `;
 
   // GANTI MODEL KE FLASH (Lebih Aman Kuota)
@@ -392,6 +393,7 @@ AI HARUS menghasilkan:
 PRINSIP PENUTUP
 Analisa ini adalah alat berpikir probabilistik, bukan alat pembenaran posisi.
 Gunakan Bahasa Indonesia.
+MARAHLAH JIKA USER MEMASUKAN DATA KOSONG, KAMU JANGAN ASAL NULIS KESIMPULAN JIKA DATANYA KOSONG!
   `;
 
   // GANTI MODEL KE FLASH (Lebih Aman Kuota)
